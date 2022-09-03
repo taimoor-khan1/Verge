@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Verge</string>
+        <string name="facebook_app_id">1681080132271358</string>
+    <string name="fb_login_protocol_scheme">fb1681080132271358</string>
+<string name="facebook_client_token">38ee49d875b5d0658b558be54c5831c1</string>
+</resources>

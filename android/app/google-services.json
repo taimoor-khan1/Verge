@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1048958253490",
+    "project_id": "verge-80fec",
+    "storage_bucket": "verge-80fec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048958253490:android:32dacac477cf348a6a0cab",
+        "android_client_info": {
+          "package_name": "com.verge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048958253490-0mtfc0dtf63uqrkjqltl1ivpfogiqo02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verge",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1048958253490-2j73ljj1jqi418mj2s33m6sgsjmv2ili.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCExCIjA1czrJ_6INJpldib9zvflLghi6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048958253490-2j73ljj1jqi418mj2s33m6sgsjmv2ili.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
